@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7303117190",
+    "project_id": "resqnova-ffc7c",
+    "storage_bucket": "resqnova-ffc7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7303117190:android:1547072697facdb5e95407",
+        "android_client_info": {
+          "package_name": "com.example.resqnova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqWnqIhJLN21UgvsZDNUd242UrAMLOGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
