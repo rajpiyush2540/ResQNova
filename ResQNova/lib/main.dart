@@ -7,7 +7,7 @@ import 'screens/login_screen.dart';
 import 'services/auth_service.dart';
 import 'services/notification_service.dart';
 import 'services/victim_store.dart';
-// import 'screens/resource_allocation_details_screen.dart';
+import 'screens/resource_allocation_details_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
